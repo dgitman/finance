@@ -1,1 +1,1 @@
-# finance
+# Financial Templates for Fun & Profit
